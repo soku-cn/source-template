@@ -2,5 +2,5 @@
 Use degit to create a new source:
 
 ```bash
-npx degit sokuexample/source-template.git new-source-name
+npx degit soku-cn/source-template.git new-source-name
 ```
